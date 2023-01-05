@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davydkaio&show_icons=true&locale=en&layout=compact" alt="davydkaio" /></p>
 
-<p></p>
+<br />
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=davydkaio&show_icons=true&locale=en" alt="davydkaio" /></p>
