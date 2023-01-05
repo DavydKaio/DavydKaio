@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Davyd Simões</h1>
 <h3 align="center">A developer passionate about the frontend world</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davydkaio" alt="davydkaio" /></a> </p>
-
 - 🌱 I’m currently learning **ReactJS and NextJS**
 
 - 📫 How to reach me **davyd.kaio@gmail.com**
@@ -19,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davydkaio&show_icons=true&locale=en&layout=compact" alt="davydkaio" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davydkaio&show_icons=true&locale=en" alt="davydkaio" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davydkaio&" alt="davydkaio" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davydkaio&show_icons=true&locale=en" alt="davydkaio" /></p>
