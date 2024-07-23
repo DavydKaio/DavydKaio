@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davyd Simões</h1>
 <h3 align="center">A developer passionate about the frontend world</h3>
 
-- 🌱 I’m currently learning **Angular** and **Java**
+- 🌱 I’m currently learning **React** and **Node**
 
 - 📫 How to reach me **davyd.kaio@gmail.com**
 
